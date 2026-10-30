@@ -50,3 +50,10 @@ During initial configuration, testing network connectivity yielded a `Temporary 
 
 * **Successful Connection Screenshot:** `Screenshot 2026-10-29 095226.jpg`  
 ![Successful Ping Test](Screenshot%202026-10-29%20095226.jpg)[cite: 9]
+
+---
+
+## 🎥 Video Demonstration
+Watch the complete step-by-step video walkthrough of this lab setup on YouTube:
+
+👉 [Watch Week 1 Lab Setup Walkthrough on YouTube](https://www.youtube.com/watch?v=uWOkAptXWrc)
